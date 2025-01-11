@@ -49,7 +49,7 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn joblib
   </tr>
   <tr>
     <td>Accuracy</td>
-    <td><b>95%</b></td>
+    <td><b>94.79%</b></td>
   </tr>
   <tr>
     <td>Precision</td>
@@ -65,11 +65,11 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn joblib
   </tr>
   <tr>
     <td>MAE</td>
-    <td><b>0.04</b></td>
+    <td><b>0.05</b></td>
   </tr>
   <tr>
     <td>MSE</td>
-    <td><b>0.04</b></td>
+    <td><b>0.05</b></td>
   </tr>
 </table>
 
