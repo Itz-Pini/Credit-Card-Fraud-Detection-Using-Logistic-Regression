@@ -1,5 +1,3 @@
-# Credit-Card-Fraud-Detection-Using-Logistic-Regression
-
 <h1 align="center">🚀 Credit Card Fraud Detection using Logistic Regression</h1>
 <h2>📌 Project Overview</h2>
 <p>
@@ -104,4 +102,4 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn joblib
 </ul>
 
 <h2>👨‍💻 Author</h2>
-<p>🚀 <b>Aradhana Patra</b> | 🌍 GitHub: <a href="https://github.com/aradhana-56">GitHub</a> |  🔗 LinkedIn: <a href="https://www.linkedin.com/in/aradhana-patra-8694642b5">LinkedIn</a></p>
+<p>🚀 <b>Ashwini Kumar Sahu</b> | 🌍 GitHub: <a href="https://github.com/Itz-Pini">GitHub</a> |  🔗 LinkedIn: <a href="https://www.linkedin.com/in/ashwini-kumar-sahu-0520b52b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></p>
